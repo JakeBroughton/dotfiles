@@ -191,4 +191,4 @@ function devopen() {
         false
     fi
 }
-
+alias code-remote=devopen
