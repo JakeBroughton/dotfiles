@@ -132,11 +132,6 @@ source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 autoload -U compinit && compinit -u
 
-# Autopair
-source ~/.zsh-autopair/autopair.zsh
-autopair-init
-
-
 export PATH=$PATH:/usr/local/go/bin
 
 # NVM
